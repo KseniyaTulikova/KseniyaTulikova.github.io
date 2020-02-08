@@ -1,5 +1,5 @@
 # Kseniya Tulikova 
-![Image of Ksenia Tulikova]()
+![Image of Ksenia Tulikova](https://github.com/KseniyaTulikova/rsschool-cv/blob/gh-pages/avatar.png?raw=true)
 **E-mail:** ksenia77383@gmail.com
 **Mobile:** +375(29) 619-33-64
 
