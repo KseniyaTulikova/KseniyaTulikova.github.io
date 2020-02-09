@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1024px;
+    margin: 0 auto;
+    font-family: 'Lora', serif;   
+}
+
+main {
+    width:  550px;   
+}
+
+h1, h2 {
+    color: darkcyan;
+}
+
+section:first-child {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+section:not(:first-child):not(:last-child) {
+    border-bottom: 2px solid lightgrey;
+}
+
+.goal {
+    padding: 10px 0;
+}
